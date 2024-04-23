@@ -7,3 +7,4 @@ a = [[x[i] for x in lst_in] for i in range(len(lst_in[0]))]
 
 for row in a:
     print(*row)
+
